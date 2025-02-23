@@ -4,7 +4,10 @@ This software calculates prices of Guild Wars 2 items based on https://gw2pc.com
 HOW TO USE:
 
 Step 1:
- - Look for releases of this software on the right hand side. Click that to download .exe file.
+ - Look for releases of this software on the right hand side.
+ - This will be named GW2 Price Calculator exe file.
+ - After clicking that link you should see a file named GW2PriceCalc.exe
+ - Click that and it will download the exe file.
 
 Step 2:
  - Open the .exe file downloaded.
